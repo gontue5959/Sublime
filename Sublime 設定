@@ -1,0 +1,5 @@
+去掉空白字符的颜色
+1、Ctrl+Shift+p；
+2、输入 remove， 选择remove package；
+3、输入Trailingspace，回车；
+
